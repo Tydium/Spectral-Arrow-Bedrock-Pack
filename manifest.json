@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds a Spectral Arrow texture for Geyser",
+        "name": "Java Spectral Arrow",
+        "uuid": "d2979b3e-85cf-4cbd-8186-40d3bc57560c",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            3
+        ]
+    },
+    "modules": [
+        {
+            "description": "Adds a Spectral Arrow texture for Geyser",
+            "type": "resources",
+            "uuid": "5ea7a6b2-4855-4154-9b28-bf20f5233034",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
