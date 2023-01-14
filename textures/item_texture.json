@@ -1,0 +1,11 @@
+{
+    "resource_pack_name": "Spectral_arrow",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "spectral_arrow": {
+            "textures": [
+                "textures/spectral_arrow"
+            ]
+        }
+    }
+}
