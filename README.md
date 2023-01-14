@@ -2,6 +2,8 @@
 A pack to be used with the Geyser Proxy + Geyser Optional Pack + A Custom Mapping
 
 A simple "quality of life" pack made to show the spectral arrows in the hotbar. Geyser Optional pack provides the Entity texture for the Arrow, but not the hotbar item (which isn't doable right now at the moment due to not being able to ensure that everyone has the pack). 
+## Preview
+![image](https://user-images.githubusercontent.com/67938521/212447595-861dc667-1a3d-4957-b799-463874914558.png)
 
 ## Requirements
 - [Geyser Optional Pack](https://github.com/GeyserMC/GeyserOptionalPack)
