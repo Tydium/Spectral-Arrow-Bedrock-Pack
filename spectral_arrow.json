@@ -1,0 +1,14 @@
+{
+    "format_version": "1",
+    "items": {
+    "minecraft:spectral_arrow": [
+        {
+            "name": "spectral_arrow",
+            "display_name": "Spectral Arrow",
+            "allow_offhand": true,
+            "icon": "spectral_arrow"
+        }
+    ]
+    }
+}
+        
